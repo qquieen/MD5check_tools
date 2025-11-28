@@ -1,0 +1,3 @@
+PyQt5
+other_package_1
+other_package_2
